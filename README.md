@@ -3,7 +3,7 @@ Flex 웹 레이아웃 제작 및 자바스크립트로 동영상 제어 페이�
 
 ![ezgif com-gif-maker](https://user-images.githubusercontent.com/95061755/168204822-a67ccfc7-20d5-400c-818f-cb5e2f055682.gif)
 
-Demo: flex-webpage.netlify.app
+Demo: https://flex-webpage.netlify.app/
 
 #사용기술
 - html
